@@ -13,12 +13,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JenniferByrnes/whats-cooking.git"
+    "url": "git+https://github.com/babaphillips/whatscooking-.git"
   },
   "bugs": {
-    "url": "https://github.com/JenniferByrnes/whats-cooking/issues"
+    "url": "https://github.com/babaphillips/whatscooking-/issues"
   },
-  "homepage": "https://github.com/JenniferByrnes/whats-cooking#readme",
+  "homepage": "https://github.com/babaphillips/whatscooking-#readme",
   "dependencies": {
     "autoprefixer": "^10.4.8",
     "bcrypt": "^5.0.1",
